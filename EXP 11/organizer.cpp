@@ -1,0 +1,57 @@
+#include "central_management_system.h"
+
+// Constructors/Destructors
+
+
+central_management_system::central_management_system()
+{
+  initAttributes();
+}
+
+central_management_system::~central_management_system()
+{
+}
+
+// Methods
+
+
+// Accessor methods
+
+
+
+// Other methods
+
+
+void central_management_system::initAttributes()
+{
+}
+
+
+#include "organizer.h"
+
+// Constructors/Destructors
+
+
+organizer::organizer()
+{
+  initAttributes();
+}
+
+organizer::~organizer()
+{
+}
+
+// Methods
+
+
+// Accessor methods
+
+
+
+// Other methods
+
+
+void organizer::initAttributes()
+{
+}
+
